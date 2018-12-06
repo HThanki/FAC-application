@@ -12,6 +12,8 @@ header {
   background-color: #8e9ea1;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 header a {
@@ -23,6 +25,7 @@ header a {
 
 header ul {
   list-style-type: none;
+
 }
 
 #main-links ul {
@@ -36,6 +39,7 @@ header ul {
 
 #social-links ul {
   display: flex;
+
 }
 
 #intro {
