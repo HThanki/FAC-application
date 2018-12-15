@@ -144,3 +144,10 @@ header ul {
 #showcase {
   display: flex;
 }
+
+#footer {
+  background-color: teal;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
