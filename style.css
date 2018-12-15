@@ -6,6 +6,7 @@
 
 body {
   background-color: #ececec;
+  font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -35,6 +36,7 @@ header ul {
 #logo {
   font-size: 1.8em;
   margin: 0 auto;
+  font-family: 'Poiret One', cursive;
 }
 
 #social-links ul {
@@ -61,8 +63,9 @@ header ul {
 }
 
 #intro h1{
-  font-size: 2em;
+  font-size: 3em;
   padding: 20px;
+  font-family: 'Poiret One', cursive;
 }
 
 .cards-container {
@@ -150,4 +153,6 @@ header ul {
   color: #fff;
   padding: 20px;
   text-align: center;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.5em;
 }
