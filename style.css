@@ -67,8 +67,7 @@ header ul {
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  
+  justify-content: center;  
 }
 
 .card {
@@ -80,7 +79,8 @@ header ul {
   background-color: #fff;
   display: flex;
   flex-direction: column;
-  transition: box-shadow 0.3s;
+  transition: box-shadow 0.3s;  
+
 }
 
 .card:hover {
@@ -141,6 +141,7 @@ header ul {
 
 #showcase {
   display: flex;
+  justify-content: center;  
 }
 
 #footer {
