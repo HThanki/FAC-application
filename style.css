@@ -119,6 +119,7 @@ header ul {
   margin: 10px; 
   margin-top: auto;
   align-self: flex-start;
+  font-family: 'Roboto', sans-serif;
 }
 
 .card .card-desc {
@@ -169,10 +170,6 @@ header ul {
   display: none;
 }
 
-#dots {
-
-}
-
 .card .call-to-action button{
   display: block;
   padding: 10px 15px;   
@@ -183,6 +180,8 @@ header ul {
   border: 2px solid transparent;
   transition-property: border, background-color, color;
   transition-duration: 0.3s;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .card .call-to-action button:hover{
