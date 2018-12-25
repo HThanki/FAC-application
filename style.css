@@ -173,7 +173,7 @@ header ul {
 
 }
 
-button {
+.card .call-to-action button{
   display: block;
   padding: 10px 15px;   
   color: #fff;
@@ -185,7 +185,7 @@ button {
   transition-duration: 0.3s;
 }
 
-button:hover{
+.card .call-to-action button:hover{
   border: 2px solid #8e9ea1;
   background-color: transparent;
   color: #8e9ea1;
