@@ -128,25 +128,6 @@ header ul {
   margin-bottom: 20px;
 }
 
-.card .call-to-action a{
-  display: block;
-  padding: 10px 15px;   
-  color: #fff;
-  background-color: #8e9ea1;
-  text-decoration: none;
-  text-align: center;
-  border: 2px solid transparent;
-  transition-property: border, background-color, color;
-  transition-duration: 0.3s;
-}
-
-.card .call-to-action a:hover{
-  border: 2px solid #8e9ea1;
-  background-color: transparent;
-  color: #8e9ea1;
-  text-align: center;
-}
-
 #showcase {
   display: flex;
   justify-content: center;  
