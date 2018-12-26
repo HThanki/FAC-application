@@ -147,7 +147,15 @@ header ul {
   color: #fff;
 }
 
-#more {
+#pastMore {
+  display: none;
+}
+
+#presentMore {
+  display: none;
+}
+
+#futureMore {
   display: none;
 }
 
